@@ -1,0 +1,12 @@
+# Site settings
+title: "Patchwork Toolkit"
+tagline: "Lightweight Platform for the Network of Things"
+email: alexander.lobunets@gmail.com
+description: "Patchwork is a toolkit for connecting various devices into a network of things or, in a more broad case - Internet of Things (IoT). The main goal of creating this toolkit is having a lightweight set of components that can help to quickly integrate different devices (i.e. Arduinos, RaspberryPI's, Plugwise, etc) into a smart environment and expose specific devices' capabilities as RESTful/SOAP/CoAP/MQTT/etc services."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://patchwork-toolkit.github.io" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  patchwork-toolkit
+
+# Build settings
+markdown: kramdown
